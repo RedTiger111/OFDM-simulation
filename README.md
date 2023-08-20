@@ -1,4 +1,4 @@
-# Sobel Filter Implementation in Verilog
+# OFDM simulation in Matlab
 
 This project is OFDM simulation in matlab.
 using 16-QAM modulation and demodulation.
