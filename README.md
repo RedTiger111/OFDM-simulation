@@ -1,6 +1,8 @@
 # Sobel Filter Implementation in Verilog
 
 This project is OFDM simulation in matlab.
+using 16-QAM modulation and demodulation.
+in channel, i use AWGN noise channel and layleigh fading.
 
 ## Simmulation Operation
 
